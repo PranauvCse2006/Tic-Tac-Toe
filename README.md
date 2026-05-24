@@ -51,9 +51,9 @@ This project helped in understanding:
 =====================
 
      X  |  O  |  X
-    -------------
+    ----|-----|---
      4  |  O  |  6
-    -------------
+    ----|-----|---
      X  |  8  |  9
 ```
 
@@ -66,4 +66,4 @@ This project helped in understanding:
 
 ## Output Screenshot
 
-![Game Output](screenshots/output.png)
+![Game Output](screenshots/UI.png)
