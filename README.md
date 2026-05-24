@@ -66,4 +66,4 @@ This project helped in understanding:
 
 ## Output Screenshot
 
-![Game Output](screenshots/UI.png)
+![Game Output](Screenshot/UI.png)
